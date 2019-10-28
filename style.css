@@ -1,0 +1,59 @@
+body {
+	background-color: SlateBlue;
+}
+
+h1 {
+	font-family: Calibri; 
+	font-size: 25pt; 
+	color: white;
+}
+
+p {
+	font-family: Calibri; 
+	font-size: 12pt; 
+	color: white;
+}
+
+table {
+	font-family: Calibri; 
+	font-size: 12pt; 
+	color: white;
+}
+
+ul {
+	font-family: Calibri; 
+	font-size: 12pt; 
+	color:white;
+}
+
+a:link {
+		font-family: Calibri; 
+		font-size: 12pt; 
+		color:white;
+		background-color:transparent;
+		text-decoration:underline;
+}
+
+a:visited {
+		font-family: Calibri; 
+		font-size: 12pt; 
+		color:gray;
+		background-color:transparent;
+		text-decoration:underline;
+}
+
+a:hover {
+		font-family: Calibri; 
+		font-size: 12pt; 
+		color:white;
+		background-color:transparent;
+		text-decoration:none;
+}
+
+a:active {
+		font-family: Calibri; 
+		font-size: 12pt; 
+		color:gray;
+		background-color:transparent;
+		text decoration:underline;
+}
